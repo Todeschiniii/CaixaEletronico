@@ -127,24 +127,16 @@ A lógica principal está centralizada no `Form1.cs`, responsável pelo controle
 
 ---
 
-## 👨‍💻 Autores
+# 📄 Licença
 
-**Mateus Todeschini Monteiro**  
-**Kaique Eduardo Luiz de Oliveira**
-
-Curso Técnico em Informática  
-Colégio Técnico Antônio Teixeira Fernandes (Univap)  
+Projeto desenvolvido para fins educacionais.
 
 ---
 
-## ⭐ Considerações Finais
+# 👥 Créditos & contatos
 
-Este projeto demonstra aplicação prática de:
+1. <b>Mateus Todeschini</b> - GitHub: https://github.com/Todeschiniii<br>
+2. <b>Heitor Pinheiro</b> - GitHub: https://github.com/HeitorPinheiro11<br>
+3. <b>Davi Dancuart<b> - GitHub: https://github.com/DaviDancuart<br>
 
-- Lógica condicional
-- Manipulação de eventos
-- Controle financeiro básico
-- Organização de fluxo de sistema
-- Estruturação de interface desktop
-
-Representa uma base sólida para evolução para sistemas comerciais mais robustos.
+Repositório: https://github.com/Todeschiniii/PAW-3Bimestre
