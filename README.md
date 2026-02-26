@@ -1,17 +1,17 @@
 # 💰 Sistema de Caixa - Lanchonete Delícia
 
-## 📌 Sumário
+# 📑 Sumário
 
-- [Sobre o Projeto](#-sobre-o-projeto)
-- [Demonstração do Funcionamento](#-demonstração-do-funcionamento)
-- [Objetivos do Sistema](#-objetivos-do-sistema)
-- [Funcionalidades Implementadas](#-funcionalidades-implementadas)
-- [Arquitetura e Lógica Aplicada](#-arquitetura-e-lógica-aplicada)
-- [Tecnologias Utilizadas](#-tecnologias-utilizadas)
-- [Fluxo do Sistema](#-fluxo-do-sistema)
-- [Estrutura do Código](#-estrutura-do-código)
-- [Possíveis Melhorias Futuras](#-possíveis-melhorias-futuras)
-- [Autores](#-autores)
+- [📖 Sobre o Projeto](#-sobre-o-projeto)
+- [🎬 Demonstração do Funcionamento](#-demonstração-do-funcionamento)
+- [🎯 Objetivos do Sistema](#-objetivos-do-sistema)
+- [⚙️ Funcionalidades Implementadas](#-funcionalidades-implementadas)
+- [🧠 Arquitetura e Lógica Aplicada](#-arquitetura-e-lógica-aplicada)
+- [🛠️ Tecnologias Utilizadas](#-tecnologias-utilizadas)
+- [🔄 Fluxo do Sistema](#-fluxo-do-sistema)
+- [📂 Estrutura do Código](#-estrutura-do-código)
+- [🚀 Possíveis Melhorias Futuras](#-possíveis-melhorias-futuras)
+- [👥 Créditos & Contatos](#-créditos--contatos)
 
 ---
 
